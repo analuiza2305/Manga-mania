@@ -7,7 +7,7 @@ Aqui você pode explorar, descobrir e se encantar com obras incríveis do univer
 
 O Manga Mania nasceu com a missão de criar um espaço onde fãs de mangá possam:
 
-📖 Descobrir novos títulos.=
+📖 Descobrir novos títulos.
 
 🔍 Pesquisar mangás por nome.
 
@@ -31,7 +31,7 @@ Firebase → Para o banco de dados do nosso sitema.
 
 📱 Layout responsivo para celular, tablet e desktop.
 
-🚀 Como usar
+ Como usar:
 
 Abra nosso link, ou siga este passo a passo:
 ```bash
