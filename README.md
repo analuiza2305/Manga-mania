@@ -34,13 +34,15 @@ Firebase → Para o banco de dados do nosso sitema.
 🚀 Como usar
 
 Abra nosso link, ou siga este passo a passo:
-
+```bash
 cd "nome da pasta"
-
+```
+```bash
 python -m http.server
-
+````
+```bash
 localhost:8000
-
+````
 
 Explore e divirta-se! 🎉
 
